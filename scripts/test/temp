@@ -1,0 +1,13 @@
+score_pda.py  - fs:  48000
+score_pda.py  - framelength:  480
+score_pda.py  - framecounts do not match: 733 736
+score_pda.py  - using smaller one 733
+Total frames compared    : 733
+Unvoiced frames          : 554
+Unvoiced/Voiced errors   : 11
+Voiced/Unvoiced errors   : 1
+Voiced frames            : 167
+Gross pitch errors       : 0
+Fine pitch errors        : 167
+Fine pitch errors (mean) : 0.00000367
+Fine pitch errors (stdev): 0.00049882
